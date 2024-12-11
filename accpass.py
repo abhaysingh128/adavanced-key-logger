@@ -1,2 +1,2 @@
-email ='gehuchatbot@gmail.com'
-password ='htmz fpqs yrlv zyfo'
+email ='xyz@gmail.com'
+password ='enter your gmail password'
